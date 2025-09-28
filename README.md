@@ -5,11 +5,11 @@ It integrates using Make.com to automate tasks such as syncing Airtable data, se
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Features:
 
--View total revenue, total leads, conversion rate, and total customers.
+*-View total revenue, total leads, conversion rate, and total customers.
 -Interactive charts for revenue trends and lead breakdown.
 -Top 5 products by revenue with progress bars.
 -Automated data fetching and KPI calculations from Airtable.
--Automated data updates and workflow triggers using Make.com.
+-Automated data updates and workflow triggers using Make.com.*
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Tech Stack:
 
